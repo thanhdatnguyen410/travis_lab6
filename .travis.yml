@@ -4,6 +4,4 @@ jdk:
   - openjdk11
 os:
   - linux
-dist:
-  - trusty
-  - precise
+

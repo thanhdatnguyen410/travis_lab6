@@ -5,5 +5,7 @@ jdk:
 os:
   - linux
   - osx
-
+dist:
+  - trusty
+  - precise
 
